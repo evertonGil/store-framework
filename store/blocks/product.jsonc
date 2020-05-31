@@ -11,7 +11,8 @@
 			"marginTop": 6
 		},
 		"children": [
-			"flex-layout.col#left"
+			"flex-layout.col#left",
+			"flex-layout.col#right"
 		]
 	},
 	"flex-layout.col#left": {
